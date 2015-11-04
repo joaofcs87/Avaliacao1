@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#263238</item>
+        <item name="colorPrimaryDark">#546E7A</item>
+        <item name="colorAccent">#B0BEC5</item>
+        <item name="android:panelColorBackground">#A7FFEB</item>
+    </style>
+
+    <!-- estilização do meu app -->
+    <style name="EstiloImc" parent="AppTheme">
+
+        <item name="android:layout_marginBottom">@dimen/margin_bottom</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="EstiloBtn" parent="AppTheme">
+        <item name="android:layout_marginBottom">@dimen/margin_bottom</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:color">@color/backgroundButton</item>
+        <item name="android:textColor">@color/textColorButton</item>
+    </style>
+
+    <style name="EstiloMsg" parent="AppTheme">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:colorBackground">@color/backgroundMsg</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

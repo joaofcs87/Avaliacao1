@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Imc</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- strings app imc -->
+    <string name="txt_peso">Weight:</string>
+    <string name="txt_altura">Height(m):</string>
+    <string name="txt_btn_imc">Calculate IMC</string>
+    <string name="txt_resultado_imc">IMC is:</string>
+
+    <!-- STRINGS/TEXTOS PARA CLASSIFICAÇÃO DE ACORDO COM O IMC -->
+    <string name="txt_abaixoPeso">UNDER WEIGHT</string>
+    <string name="txt_idealPeso">IDEAL WEIGHT - CONGRATULATIONS</string>
+    <string name="txt_acimaPeso">SLIGHTLY OVERWEIGHT</string>
+    <string name="txt_obesidade1">ATTENTION: OBESITY GRADE I</string>
+    <string name="txt_obesidade2">ATTENTION: OBESITY GRADE II (SEVERE)</string>
+    <string name="txt_obesidade3">ATTENTION: OBESITY GRADE III (MORBID)</string>
+
+</resources>

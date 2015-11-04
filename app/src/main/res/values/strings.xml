@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Imc</string>
+    <string name="action_settings">Configurações</string>
+
+    <!-- strings app imc -->
+    <string name="txt_peso">Peso:</string>
+    <string name="txt_altura">Altura(m):</string>
+    <string name="txt_btn_imc">Calcular IMC</string>
+    <string name="txt_resultado_imc">IMC é:</string>
+
+    <!-- STRINGS/TEXTOS PARA CLASSIFICAÇÃO DE ACORDO COM O IMC -->
+    <string name="txt_abaixoPeso">ABAIXO DO PESO</string>
+    <string name="txt_idealPeso">PESO IDEAL - PARABÉNS</string>
+    <string name="txt_acimaPeso">LEVEMENTE ACIMA DO PESO</string>
+    <string name="txt_obesidade1">ATENÇÃO: OBESIDADE GRAU I</string>
+    <string name="txt_obesidade2">ATENÇÃO: OBESIDADE GRAU II (SEVERA)</string>
+    <string name="txt_obesidade3">ATENÇÃO: OBESIDADE GRAU III (MÓRBIDA)</string>
+
+</resources>
